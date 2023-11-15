@@ -39,6 +39,7 @@ This application will prompt the user with an array of questions from the termin
 ## Installation
 
 Fork this repo. Then in the terminal run //~ npm init -y //~ npm i inquirer@8.2.4 - To launch application run in terminal //~ node index
+-- For further instruction please follow the [video tutorial](#video-tutorial)
 
 ## User Information
 
@@ -77,6 +78,10 @@ inquirer@8.2.4
 ## Link to live site:
 
 <a href="N/A">No live site to link</a>
+
+## Video Tutorial:
+
+<a href='https://drive.google.com/file/d/18Pg6mbziKbxkpIbg8SfBoqjY9TgVWzbd/view'>Video Tutorial</a>
 
 ## Images of webpage functionality:
 
