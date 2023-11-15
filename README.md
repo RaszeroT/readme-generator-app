@@ -34,15 +34,15 @@ Backend Readme Generator
 
 ## Description:
 
-This application will prompt the user with an array of questions from the terminal. Which once completed will dynamically create a professional readme.md.
+This application will prompt the user with an array of questions from the terminal. Which once completed will dynamically create a professional readme.md
 
 ## Installation
 
-fork this repo. In the terminal run //~ npm init -y //~ npm i inquirer@8.2.4 - to launch run //~ node index
--- For further understanding please watch the [tutorial](#video-tutorial)
+Fork this repo. Then in the terminal run //~ npm init -y //~ npm i inquirer@8.2.4 - To launch application run in terminal //~ node index
+
 ## User Information
 
-https://github.com/raszerot/readme-generator-app
+<a href='https://github.com/RaszeroT'>Travis Shanhun's github username: RaszeroT</a>
 
 shanhun.codes@gmail.com
 
@@ -58,13 +58,13 @@ N/A
 
 Please reach out to me if you have any further questions via:
 
-shanhun.codes@gmail.com
+Email: shanhun.codes@gmail.com
 
-https://github.com/raszerot/readme-generator-app
+<a href='https://github.com/RaszeroT/readme-generator-app'>Backend Readme Generator repository</a>
 
 ## What I learned:
 
-In this project I learnt that spacing and syntax within template literals is very important, otherwise, you will not be able to achieve the desired formatting within the final readme.md.
+In this project I learnt that spacing and syntax within template literals is very important, otherwise, you will not be able to achieve the desired formatting within the final readme.md
 
 ## Code in JavaScript index:
 
@@ -76,11 +76,7 @@ inquirer@8.2.4
 
 ## Link to live site:
 
-<a href="N/A">No live site for backend application </a>
-
-## Video Tutorial:
-
-https://drive.google.com/file/d/18Pg6mbziKbxkpIbg8SfBoqjY9TgVWzbd/view
+<a href="N/A">No live site to link</a>
 
 ## Images of webpage functionality:
 

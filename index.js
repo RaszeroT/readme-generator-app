@@ -58,13 +58,18 @@ inquirer
     },
     {
       type: "input",
+      message: "What is your github username?",
+      name: "username",
+    },
+    {
+      type: "input",
       message: "Please enter the URL to the deployed website",
       name: "websiteURL",
     },
     {
-      type: 'input',
-      message: 'what would you like the label to your live webpage to state?',
-      name: 'URLLabel'
+      type: "input",
+      message: "what would you like the label to your live webpage to state?",
+      name: "URLLabel",
     },
     {
       type: "input",
@@ -121,7 +126,7 @@ ${data.install}
 
 ## User Information
 
-${data.github}\n
+<a href='https://www.github.com/${data.username}'>${data.name}'s github username: ${data.username}</a>\n
 ${data.emailQuestions}
 
 ## Contributors
@@ -135,8 +140,8 @@ ${data.test}
 ## Questions
 
 Please reach out to me if you have any further questions via:\n
-${data.emailQuestions}\n
-${data.github}
+Email: ${data.emailQuestions}\n
+<a href='${data.github}'>${data.title} repository</a>
 
 ## What I learned:
 
