@@ -44,7 +44,7 @@ Fork this repo. Then in the terminal run //~ npm init -y //~ npm i inquirer@8.2.
 
 <a href='https://github.com/RaszeroT'>Travis Shanhun's github username: RaszeroT</a>
 
-shanhun.codes@gmail.com
+Email: shanhun.codes@gmail.com
 
 ## Contributors
 
