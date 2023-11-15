@@ -39,12 +39,12 @@ This application will prompt the user with an array of questions from the termin
 ## Installation
 
 fork this repo. In the terminal run //~ npm init -y //~ npm i inquirer@8.2.4 - to launch run //~ node index
-
+-- For further understanding please watch the [tutorial](#video-tutorial)
 ## User Information
 
 https://github.com/raszerot/readme-generator-app
 
-raszerot@gmail.com
+shanhun.codes@gmail.com
 
 ## Contributors
 
@@ -58,7 +58,7 @@ N/A
 
 Please reach out to me if you have any further questions via:
 
-raszerot@gmail.com
+shanhun.codes@gmail.com
 
 https://github.com/raszerot/readme-generator-app
 
