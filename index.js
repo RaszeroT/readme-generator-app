@@ -37,12 +37,6 @@ inquirer
     },
     {
       type: "input",
-      message:
-        "Were there any concepts or issues within this project you found especially challenging?",
-      name: "challenges",
-    },
-    {
-      type: "input",
       message: "What are the steps for installing this application?",
       name: "install",
     },
@@ -66,6 +60,11 @@ inquirer
       type: "input",
       message: "Please enter the URL to the deployed website",
       name: "websiteURL",
+    },
+    {
+      type: 'input',
+      message: 'what would you like the label to your live webpage to state?',
+      name: 'URLLabel'
     },
     {
       type: "input",
@@ -103,10 +102,10 @@ ${data.title}
 [User Information](#user-information)\n
 [Contributions](#contributions)\n
 [Tests](#tests)\n
-[Questions](questions)\n
-[What I Learned](#what-i-learned-and-struggled-with)\n
+[Questions](#questions)\n
+[What I Learned](#what-i-learned)\n
 [Code in index.js](#code-in-javascript-index)\n
-[dependencies](#dependencies)\n
+[Dependencies](#dependencies)\n
 [Link to live site](#link-to-live-site)\n
 [Link to gitHub Repo](#link-to-github-repository)\n
 [Images Of website functionality](#images-of-webpage-functionality)\n
@@ -135,14 +134,13 @@ ${data.test}
 
 ## Questions
 
-Please Contact me through:\n
+Please reach out to me if you have any further questions via:\n
 ${data.emailQuestions}\n
 ${data.github}
 
-## What I learned and struggled with:
+## What I learned:
 
-${data.iLearned}\n
-${data.challenges}
+${data.iLearned}
 
 ## Code in JavaScript index:
 
@@ -154,11 +152,7 @@ ${data.dependencies}
 
 ## Link to live site:
 
-<a href="${data.websiteURL}">${data.title}</a>
-
-## Link to GitHub repository:
-
-<a href="${data.github}">Link to ${data.name}'s GitHub repository</a>
+<a href="${data.websiteURL}">${data.URLLabel}</a>
 
 ## Images of webpage functionality:
 
